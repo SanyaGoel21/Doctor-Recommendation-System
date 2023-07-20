@@ -1,0 +1,43 @@
+id,doctor,phone,specialist,disease,address,pincode
+1,Dr. Sarah Johnson,9000000001,Cardiology,Fungal infection,"123 Main Street, Suite 101",110011
+2,Dr. John Smith,9000000002,Oncology,Allergy,"456 Oak Avenue, Suite 205",110012
+3,Dr. Rachel Lee,9000000003,Neurology,GERD,"789 Maple Road, Suite 303",110013
+4,Dr. Michael Chen,9000000004,Pediatrics,Chronic cholestasis,"321 Elm Street, Suite 401",110014
+5,Dr. Emily Davis,9000000005,Dermatology,Drug Reaction,"555 Cedar Lane, Suite 502",110015
+6,Dr. Daniel Kim,9000000006,Psychiatry,Peptic ulcer disease,"987 Pine Street, Suite 601",110016
+7,Dr. Samantha Lee,9000000007,Obstetrics/Gynecology,AIDS,"2465 Birchwood Drive, Suite 703",110017
+8,Dr. William Ng,9000000008,Orthopedics,Diabetes ,"543 Oakwood Lane, Suite 802",110018
+9,Dr. Jessica Kim,9000000009,Ophthalmology,Gastroenteritis,"8765 Cherry Lane, Suite 901",110019
+10,Dr. Andrew Lee,9000000010,Urology,Bronchial Asthma,"5432 Applewood Lane, Suite 1001",110020
+11,Dr. Elizabeth Chen,9000000011,Endocrinology,Hypertension ,"7654 Willow Avenue, Suite 1102",110021
+12,Dr. David Lee,9000000012,Pulmonology,Migraine,"7890 Maplewood Drive, Suite 1203",110022
+13,Dr. Stephanie Kim,9000000013,Rheumatology,Cervical spondylosis,"5432 Cedarwood Lane, Suite 1304",110023
+14,Dr. Matthew Lee,9000000014,Infectious Diseases,Paralysis (brain hemorrhage),"8765 Birch Lane, Suite 1405",110024
+15,Dr. Ashley Chen,9000000015,Allergy/Immunology,Jaundice,"9876 Oakwood Drive, Suite 1506",110025
+16,Dr. Kevin Kim,9000000016,Hematology/Oncology,Malaria,"5432 Willowwood Lane, Suite 1607",110026
+17,Dr. Victoria Lee,9000000017,Nephrology,Chicken pox,"2465 Maple Lane, Suite",110027
+18,Dr. James Smith,9000000018,Infectious Diseases,Dengue,"123 Main Street, Suite 101",110011
+19,Dr. Michael Chen,9000000019,General physician,Typhoid,"456 Oak Avenue, Suite 205",110012
+20,Dr. Robert Brown,9000000020,Hepatology,hepatitis A,"789 Maple Road, Suite 303",110013
+21,Dr. James Miller,9000000021,Hepatology,Hepatitis B,"321 Elm Street, Suite 401",110014
+22,Dr. George Markson,9000000022,Hepatology,Hepatitis C,"555 Cedar Lane, Suite 502",110015
+23,Dr. Jonathan Wil,9000000023,Hepatology,Hepatitis D,"987 Pine Street, Suite 601",110016
+24,Dr. Jane Watson,9000000024,Hepatology,Hepatitis E,"2465 Birchwood Drive, Suite 703",110017
+25,Dr. Nancy Brown,9000000025,Hepatology,Alcoholic hepatitis,"543 Oakwood Lane, Suite 802",110018
+26,Dr. Kate Johnson,9000000026,Infectious Diseases,Tuberculosis,"8765 Cherry Lane, Suite 901",110019
+27,Dr. Monique Rivera,9000000027,General physician,Common Cold,"5432 Applewood Lane, Suite 1001",110020
+28,Dr. Irina Logman,9000000028,Pulmonology,Pneumonia,"7654 Willow Avenue, Suite 1102",110021
+29,Dr. Daniel Camburn,9000000029,proctology,Dimorphic hemmorhoids(piles),"7890 Maplewood Drive, Suite 1203",110022
+30,Dr. Jonathan Simon,9000000030,Cardiology,Heart attack,"5432 Cedarwood Lane, Suite 1304",110023
+31,Dr. Deborah Valentin,9000000031,vascular medicine,Varicose veins,"8765 Birch Lane, Suite 1405",110024
+32,Dr. Marina Doktorman,9000000032,Endocrinology,Hypothyroidism,"9876 Oakwood Drive, Suite 1506",110025
+33,Dr. Amy Woodstock,9000000033,Endocrinology,Hyperthyroidism,"5432 Willowwood Lane, Suite 1607",110026
+34,Dr. Jane Gibbons,9000000034,Endocrinology,Hypoglycemia,"2465 Maple Lane, Suite",110027
+35,Dr. Steven King,9000000035,Rheumatology,Osteoarthristis,"123 Main Street, Suite 101",110011
+36,Dr. Sara John,9000000036,Rheumatology,Arthritis,"456 Oak Avenue, Suite 205",110012
+37,Dr. Joe Goldberg,9000000037,Neurology,(vertigo) Paroymsal  Positional Vertigo,"789 Maple Road, Suite 303",110013
+38,Dr. Kelly Bay,9000000038,Dermatology,Acne,"321 Elm Street, Suite 401",110014
+39,Dr. Joelle Ludwig,9000000039,Urology,Urinary tract infection,"555 Cedar Lane, Suite 502",110015
+40,Dr. Brian Coleman,9000000040,Dermatology,Psoriasis,"987 Pine Street, Suite 601",110016
+41,Dr. Jose Colon,9000000041,Dermatology,Impetigo,"2465 Birchwood Drive, Suite 703",110017
+suresh,suresh,suresh,delhi,111,1900,12
